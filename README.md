@@ -13,4 +13,4 @@
 До:
 ![До](https://github.com/kaiqed7/onJoinMessage/blob/main/images/before.jpg?raw=true)
 После:
-![После](https://github.com/kaiqed7/onJoinMessage/blob/main/images/before.jpg?raw=true)
+![После](https://github.com/kaiqed7/onJoinMessage/blob/main/images/after.jpg?raw=true)
