@@ -1,0 +1,6 @@
+name: onJoinMessage
+author: k0vbaska
+api: ["3.0.0"]
+description: Изменяет сообщение при входе
+main: k0vbaska\Main
+version: 0.1
