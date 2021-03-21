@@ -10,6 +10,4 @@
 4. Изменяем значение ключа message на свое (используйте "{name}", чтобы подставить никнейм игрока)
 5. Готово!
 
-До:
-
-![Image alt](https://github.com/kaiqed7/onJoinMessage/raw/main/images/before.png)
+![До](https://github.com/kaiqed7/onJoinMessage/blob/main/images/before.jpg?raw=true)
